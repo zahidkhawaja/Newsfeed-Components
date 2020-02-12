@@ -89,9 +89,9 @@ const data = [
   {
     title: 'This is just a test',
     date: 'Oct 15th, 2018',
-    firstParagraph: `I'm just testing this out.`,
+    firstParagraph: `I'm just testing the function to make sure it's working.`,
 
-    secondParagraph: `Seems pretty cool.`,
+    secondParagraph: `Let's see what happens.`,
 
     thirdParagraph: `Components are awesome!`
   }
